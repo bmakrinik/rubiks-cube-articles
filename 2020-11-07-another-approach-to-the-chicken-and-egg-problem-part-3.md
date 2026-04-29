@@ -1,0 +1,55 @@
+# Another approach to the chicken and egg problem - Part 3
+
+*Why do third party sellers use the Amazon marketplace?*
+
+
+**Published:** 2020-11-07  
+**Source:** [https://bmak.substack.com/p/third-party-sellers-marketplace](https://bmak.substack.com/p/third-party-sellers-marketplace)
+
+---
+
+So far we have established why customers and Amazon love the marketplace model, but a marketplace would not exist without **sellers**. Based on Marketplace Pulse, Amazon marketplace has about 2MM active Sellers. Before we get into how Amazon convinced so many sellers to build their businesses on top of the marketplace ecosystem, let’s dive into the downside. What are the reasons a seller shouldn’t invest in a marketplace?
+
+**Limited branding opportunities:** we expanded on the unified detail page in a previous section. One outcome of this design is that sellers have limited branding opportunities. I would be surprised if you can name even one Amazon seller you recently bought a product from. This might not be a big deal for a small business that is reselling products from popular brands, but definitely matters to companies that invest a lot on their brand like Nike or Apple. Amazon has tried to mitigate this by distinguishing between brands and distributors with the launch of the Brand Registry program that aims to give “control over your brand’s product listings”. While this is a step that mitigates part of the issue, there are brands like Nike that have decided to pull their products from the Amazon site after a [recent pilot](https://www.bloomberg.com/news/articles/2019-11-13/nike-will-end-its-pilot-project-selling-products-on-amazon-site). The announcement is revealing of Nike’s motivation:
+
+> "*As part of Nike’s focus on elevating consumer experiences through more **direct**, **personal relationships**, we have made the decision to complete our current pilot with Amazon Retail,”* the company said in a statement. *“We will continue to invest in strong, **distinctive partnerships** for Nike with other retailers and platforms to seamlessly serve our consumers globally.”*
+
+Amazon has a strong incentive to commoditize ecommerce and offer customers a great selection of running shoes that can be made by Nike, Adidas, New Balance or any other brand. On the contrary, Nike understands that the premium customers pay to buy Nike products is associated with their brand and want to protect it at any cost. The Nike brand ranks as the 14th most valuable brand in the world and its [value is estimated at $36.8B](https://www.forbes.com/powerful-brands/list/#tab:rank). This easily justifies sacrificing some incremental sales through the Amazon marketplace channel to protect this very valuable asset. Thus the conflict.
+
+Independent of which stance each brand takes, distributors can still list a brand’s products on Amazon, making this an interesting conundrum: Does a brand owner partner with Amazon to protect their brand while at the same time it gives more power and valuable selection to a platform that also carries competitive products, or do they not, running the risk of a non controlled brand experience as unauthorized sellers undercut prices or price gouge?
+
+**Limited relationship with customers:** Nike mentioned that they seek to develop “direct, personal relationships” with their customers but anyone purchasing their product through Amazon is primarily an Amazon and not a Nike customer. Sellers receive limited customer data and have almost no ability to engage their customers as they could through their own website, social, and email channels. The difference is very important for any large brand.
+
+- Limited customer data: The holy grail for succeeding in the digital world is data and Amazon understands this really well. They run hundreds of initiatives and thousands of experiments based on customer data, but sellers only get the portion of data which is necessary to run their business like a customer's details so that they can ship an order. In addition, they get a summary of their business performance and a set of aggregated market data. For example, Amazon doesn’t communicate total marketplace sales for each product. Instead, they indicate how well each product is selling through the use of [Sales Rank](https://sellercentral.amazon.com/gp/help/help.html?itemID=G202059240&language=en_US), which is “calculated based on all-time sales of a product where recent sales are weighted more than older sales.”
+- Limited marketing opportunities: Amazon doesn’t allow sellers to contact buyers “[in any way for marketing or promotional purposes](https://sellercentral.amazon.com/gp/help/G1701)”. Communication is limited to order specific matters like shipping confirmation and order adjustments. Emails can’t include “links to any website, unless necessary to fulfill an order and any marketing or promotional messaging”. You might be wondering why this section’s title is “limited” and not “no marketing opportunities”. Amazon allows marketing activities that go through their platform, like sellers paying for Amazon advertising. This once again is limiting for large brands.
+
+**Lack of ability to develop core ecommerce capabilities:** Another externality of becoming dependent on Amazon is that marketplace sellers don’t prioritize the development of core ecommerce capabilities including marketing, traffic generation, payments processing, supply chain operations, customer support, etc. This can be a good strategy for small players with limited resources as it allows them to focus on their one or two key differentiators like product sourcing or creating their own product lines. However, as Toys R Us can attest, this is usually a bad strategy for large players.
+
+[Toys R Us signed a ten year agreement](http://news.bbc.co.uk/2/hi/business/4769896.stm) with Amazon, becoming the exclusive vendor of toys on Amazon, with ToysRUs.com redirecting to the Amazon toys section. At some point Amazon started opening the platform to more vendors over complaints about low stock and limited selection. Toys R Us sued Amazon and eventually terminated the contract, but it was probably too late in the ecommerce exploration journey. Book and music retailer Borders had a similar fate. "I think the biggest thing Borders did wrong is when they turned over their online business to Amazon," [says retail expert Howard Davidowitz](https://finance.yahoo.com/blogs/daily-ticker/another-retailer-bites-dust-borders-doomed-amazon-deal-163606690.html). "That move finished them off because they gave away the future."
+
+Target had signed a similar partnership with Amazon running it’s ecommerce operations around the same time, but managed to turn around the situation and survive. In 2009, [CEO Steve Eastman said that](https://www.geekwire.com/2011/target-finally-parts-ways-amazoncom-retailers-web-site-launch-starts-outage/) “it is in Target’s best interest going forward to assume full control over the design and management of Target’s e-commerce technology platform, fulfillment and guest services operations.” It managed to do so in 2011.
+
+**Lower margins due to referral fee:** Sellers pay a tax to Amazon for every sale. They can choose between $0.99 per item sold (individual plan) or a flat $39.99 a month (professional plan). In both cases they also pay the category specific referral fee which is around 15% for most categories (although it ranges from 6% for low margin categories like electronics to 51% for warranties)[1](#footnote-1). In addition, sellers might select to pay for additional services like fulfillment.
+
+By investing in a marketplace ecosystem and not their own website, sellers limit their opportunities for branding, lose access to customer data, deprioritize the development of core tech capabilities, and are dependent on a platform, having to pay a tax for every sale they make. These elements have different weights for different companies but for sure this is something any seller needs to consider before investing in such a relationship.
+
+Reading this post so far, it could have been titled "Why sellers should not use a marketplace service" but my point is not that. Despite the above factors, almost 400K new sellers joined the marketplace this year based on [marketplace pulse](https://www.marketplacepulse.com/amazon/number-of-sellers), while many existing sellers are running multimillion dollar businesses. How did Amazon convince so many of them to build their business on top of the Amazon marketplace ecosystem? While there are many benefits in joining this ecosystem, the main answer is distribution. Sellers benefit from Amazon’s large customer base including the [more than 150MM very loyal Prime members](https://press.aboutamazon.com/news-releases/news-release-details/amazoncom-announces-fourth-quarter-sales-21-874-billion). The alternative (or sometimes a complementary effort) is the long game of developing a website and marketing to acquire customers. In addition, sellers benefit from platform investments that include a set of tools to enable them to run their business on Amazon, payments processing, access to a fulfilment network that can store, package, and deliver orders on their behalf really fast, and additional services like an advertising platform, a lending arm, etc. Based on [Jungle Scout](https://www.junglescout.com/amazon-seller-report/), 86% of Amazon sellers are profitable (vs. a 40% benchmark for other small businesses).
+
+[Share](https://bmak.substack.com/p/third-party-sellers-marketplace?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+------------------------------------------------------------------------------------------
+
+**Check out the other parts of this post:**
+
+- [Part 1: Why do customers love marketplaces?](https://makrynikolas.com/49-part-1-why-do-customers-love-marketplaces)
+- [Part 2: Why does Amazon love the marketplace model?](https://makrynikolas.com/50-part-2-why-does-amazon-love-the-marketplace-model)
+- [Part 3: Why do third party sellers use the Amazon marketplace?](https://makrynikolas.com/51-part-3-why-do-third-party-sellers-use-the-amazon-marketplace) (this article)
+- [Part 4: How did Amazon become a marketplace?](https://makrynikolas.com/52-part-4-how-did-amazon-become-a-marketplace)
+- [Part 5: Risk Management](https://makrynikolas.com/53-marketplace-risk-management)
+- [Part 6: Bonus - The future of ecommerce](https://makrynikolas.com/54-part-6-the-future-of-ecommerce)
+
+[Subscribe now](https://bmak.substack.com/subscribe?)
+
+[1](#footnote-anchor-1)
+
+Edit: In a previous version this was 8%. Tyler Wallis, former Amazonian, correctly noted that “the standard referral fees actually span 6%-51% (not 8-51%). Personal Computers have the smallest fee, but it's actually one of the biggest 3P categories, so not negligible.” Tyler is also the host of a great podcast “Think like Amazon” which you can listen [here](https://www.thinklikeamazon.co/).
